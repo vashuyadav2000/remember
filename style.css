@@ -1,0 +1,41 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    padding: 40px;
+}
+h1{
+    padding-left: 390px ;
+    color: blueviolet;
+}
+p.kal{
+    padding-left: 490px;
+}
+
+p.ad{
+    padding-left: 370px;
+}
+
+hr{
+    color: blueviolet;
+}
+
+h3{
+    color: blueviolet;
+    padding-bottom: 20px;
+}
+.yp{
+    padding-left: 490px;
+}
+.de{
+    display: flex;
+    
+    justify-content: space-between;
+}
+span{
+    font-weight: bold;
+}
+.sc{
+    display: flex;
+    justify-content: space-between;
+}
